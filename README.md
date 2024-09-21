@@ -51,9 +51,3 @@ This project is a lightweight web application that helps users verify the integr
 - Support for additional hash algorithms (e.g., MD5, SHA-1).
 - Option to compare files by size or content.
 - Enhanced UI/UX with more detailed file metadata.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
